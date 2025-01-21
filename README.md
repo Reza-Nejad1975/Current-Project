@@ -1,4 +1,4 @@
-## Current-Project 
+## Project
 
 - Machine Learning and Power Bi Dashboard 
 - Website Developing and Converting 
